@@ -1,0 +1,8 @@
+name = "hotnews"
+pages_build_output_dir = "dist/output/public"
+compatibility_date = "2024-10-03"
+
+[[d1_databases]]
+binding = "HOTNEWS_DB"
+database_name = "hotnews-db"
+database_id = "d52de548dea842dbad6803930b6b6c4e"
