@@ -70,7 +70,7 @@ docker compose up
 
 ## 开发
 > [!Note]
-> 需要 Node.js >= 20
+> 需要 Node.js >= 20 (20.16.0)
 
 ```bash
 corepack enable
